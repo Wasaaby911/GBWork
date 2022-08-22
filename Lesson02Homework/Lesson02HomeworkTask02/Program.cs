@@ -1,4 +1,6 @@
 ﻿
+//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
 Console.WriteLine("Введите число");
 int value = int.Parse(Console.ReadLine());
 value = Math.Abs(value);
